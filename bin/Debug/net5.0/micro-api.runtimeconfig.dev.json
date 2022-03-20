@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/softbrigade/.dotnet/store/|arch|/|tfm|",
+      "/home/softbrigade/.nuget/packages"
+    ]
+  }
+}
