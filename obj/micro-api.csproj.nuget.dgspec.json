@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/softbrigade/Projects/temp/micro-api/micro-api.csproj": {}
+    "/home/softbrigade/Projects/temp/blogger/micro-api.csproj": {}
   },
   "projects": {
-    "/home/softbrigade/Projects/temp/micro-api/micro-api.csproj": {
+    "/home/softbrigade/Projects/temp/blogger/micro-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/softbrigade/Projects/temp/micro-api/micro-api.csproj",
+        "projectUniqueName": "/home/softbrigade/Projects/temp/blogger/micro-api.csproj",
         "projectName": "micro-api",
-        "projectPath": "/home/softbrigade/Projects/temp/micro-api/micro-api.csproj",
+        "projectPath": "/home/softbrigade/Projects/temp/blogger/micro-api.csproj",
         "packagesPath": "/home/softbrigade/.nuget/packages/",
-        "outputPath": "/home/softbrigade/Projects/temp/micro-api/obj/",
+        "outputPath": "/home/softbrigade/Projects/temp/blogger/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/softbrigade/.nuget/NuGet/NuGet.Config"

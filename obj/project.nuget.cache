@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wUxqeT7djyeYA0p0goHDpW65IzwZUaUCqfRA83jFlzAhducDxTkwLUEElEjFAu9WrLGTeXObcgpTMCciOznArg==",
+  "dgSpecHash": "SNB+cbeYTdW7g9KKkLUrYJon1pyWHvsBAOo57k+3l1zLWZ3MDpPQ3eUe4mcTYUgnyIOjBxgvONFh8xw1wjppew==",
   "success": true,
-  "projectFilePath": "/home/softbrigade/Projects/temp/micro-api/micro-api.csproj",
+  "projectFilePath": "/home/softbrigade/Projects/temp/blogger/micro-api.csproj",
   "expectedPackageFiles": [
     "/home/softbrigade/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/home/softbrigade/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
